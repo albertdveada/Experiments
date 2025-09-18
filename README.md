@@ -6,7 +6,7 @@ This repository showcases various experimental and personal projects. These proj
 ## 📁 My Repositories
 ✨ Explore the following repositories:
 
-- 🔗 [WhatsApp Validator Number]([https://github.com/albertdveada](https://github.com/albertdveada/whatsapp-number-validator))
+- 🔗 [WhatsApp Validator Number](https://github.com/albertdveada/whatsapp-number-validator)
 
 ---
 
